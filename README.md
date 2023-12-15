@@ -70,7 +70,7 @@ Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 [natPass Event Identity System](https://pass.neuralberta.tech)<br>
 [NeurAlbertaTech Website](https://neuralberta.tech)<br>
 [Monocular Vision 3D Bounding Box Prediction for Autonomous Driving (Capstone)](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)<br>
-[Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s) [source code](https://github.com/CameronHildebrandt/466AudioStyleTransfer)<br>
+[Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s), [(source)](https://github.com/CameronHildebrandt/466AudioStyleTransfer)<br>
 [Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron)<br>
 [Bitcoin Well Online](https://bitcoinwell.com/app/)<br>
 CNN-Based Go Player<br>
