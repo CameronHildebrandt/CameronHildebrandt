@@ -68,7 +68,7 @@ Google Apps Script, Google Sheets, Google Slides, Google Docs
 Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 
 ## Projects
-[natHACKS Landing Page](https://nathacks.ca)
+[natHACKS Landing Page](https://nathacks.ca)<br>
 [natPass Event Identity System](https://pass.neuralberta.tech)
 [NeurAlbertaTech Website](https://neuralberta.tech)
 [Monocular Vision 3D Bounding Box Prediction for Autonomous Driving (Capstone)](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)
