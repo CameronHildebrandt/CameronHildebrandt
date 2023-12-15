@@ -68,18 +68,18 @@ Google Apps Script, Google Sheets, Google Slides, Google Docs
 Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 
 ## Projects
-![natHACKS Landing Page](https://nathacks.ca)
-![natPass Event Identity System](https://pass.neuralberta.tech)
-![NeurAlbertaTech Website](https://neuralberta.tech)
-![Monocular Vision 3D Bounding Box Prediction for Autonomous Driving (Capstone)](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)
-![Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s)
-![Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron)
-![Bitcoin Well Online](https://bitcoinwell.com/app/)
+[natHACKS Landing Page](https://nathacks.ca)
+[natPass Event Identity System](https://pass.neuralberta.tech)
+[NeurAlbertaTech Website](https://neuralberta.tech)
+[Monocular Vision 3D Bounding Box Prediction for Autonomous Driving (Capstone)](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)
+[Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s)
+[Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron)
+[Bitcoin Well Online](https://bitcoinwell.com/app/)
 CNN-Based Go Player
 CNN-Based Brain State Predictor
-![KNN-Based Brain-Controlled Drone](https://www.youtube.com/watch?v=-3UTwKpKpcI&t=48s)
-![BCI Demo Website](https://demo.neuralberta.tech)
-![BCI Tower Defence Game](https://www.youtube.com/watch?v=32io4iy6L0k&t=217s)
+[KNN-Based Brain-Controlled Drone](https://www.youtube.com/watch?v=-3UTwKpKpcI&t=48s)
+[BCI Demo Website](https://demo.neuralberta.tech)
+[BCI Tower Defence Game](https://www.youtube.com/watch?v=32io4iy6L0k&t=217s)
 BCI Dashboard for Drug Admission
 BCI Accelerated Language Learning
 BCI Music Player
