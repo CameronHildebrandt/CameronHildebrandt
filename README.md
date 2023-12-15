@@ -1,6 +1,4 @@
-### Hello there! 
-## Welcome to my GitHub
-
+### Hello there, welcome to my GitHub!
 
 ## Competencies
 ### My Bread and Butter
