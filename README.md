@@ -2,7 +2,7 @@
 ## Welcome to my GitHub
 
 
-
+## Competencies
 ### My Bread and Butter
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -26,9 +26,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-
 
 ### Additional Competencies
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -67,17 +64,28 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+Google Apps Script, Google Sheets, Google Slides, Google Docs
+Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 
-Google Apps Script
-Google Sheets
-Google Slides
-Google Docs
-
-Apple Script
-Apple Keynote
-Apple Numbers
-Apple Pages
-FCPX
+## Projects
+![natHACKS Landing Page](https://nathacks.ca)
+![natPass Event Identity System](https://pass.neuralberta.tech)
+![NeurAlbertaTech Website](https://neuralberta.tech)
+![Monocular Vision 3D Bounding Box Prediction for Autonomous Driving (Capstone)](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)
+![Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s)
+![Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron)
+![Bitcoin Well Online](https://bitcoinwell.com/app/)
+CNN-Based Go Player
+CNN-Based Brain State Predictor
+![KNN-Based Brain-Controlled Drone](https://www.youtube.com/watch?v=-3UTwKpKpcI&t=48s)
+![BCI Demo Website](https://demo.neuralberta.tech)
+![BCI Tower Defence Game](https://www.youtube.com/watch?v=32io4iy6L0k&t=217s)
+BCI Dashboard for Drug Admission
+BCI Accelerated Language Learning
+BCI Music Player
+HomeKit-Integrated Lighting System
+Touchscreen Vehicle Lighting System
+OEM-Style Vehicle Lighting System
 
 <!--
 **CameronHildebrandt/CameronHildebrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
