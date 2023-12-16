@@ -66,20 +66,20 @@ Google Apps Script, Google Sheets, Google Slides, Google Docs
 Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 
 ## Projects
-[natHACKS Landing Page](https://nathacks.ca), (closed source)<br>
-[NeurAlbertaTech Website](https://neuralberta.tech), (closed source)<br>
-[natPass Event Identity System](https://pass.neuralberta.tech)<br>
-[Capstone: Monocular Vision 3D Bounding Box Prediction for Autonomous Driving](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing), (closed source)<br> <!-- https://github.com/curtiskennedy/autonomous-driving -->
+[natHACKS Landing Page](https://nathacks.ca)<br>
+[NeurAlbertaTech Website](https://neuralberta.tech)<br>
+[natPass Event Identity System](https://pass.neuralberta.tech)<br> <!-- https://github.com/neuralbertatech/natPass.git -->
+[Capstone: Monocular Vision 3D Bounding Box Prediction for Autonomous Driving](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)<br> <!-- https://github.com/curtiskennedy/autonomous-driving -->
 [Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s), [(source)](https://github.com/CameronHildebrandt/466AudioStyleTransfer)<br>
 [Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron), [(source)](https://github.com/CameronHildebrandt/cmput412/tree/main)<br>
-[Bitcoin Well Online](https://bitcoinwell.com/app/), (closed source)<br>
+[Bitcoin Well Online](https://bitcoinwell.com/app/)<br>
 CNN-Based Go Player, [(source)](https://github.com/CameronHildebrandt/455-a4-trainer)<br>
-CNN-Based Brain State Predictor (closed source)<br>
+CNN-Based Brain State Predictor<br>
 [KNN-Based Brain-Controlled Drone](https://www.youtube.com/watch?v=-3UTwKpKpcI&t=48s), [(source)](https://github.com/neuralbertatech/openComp2020)<br>
 [BCI Demo Website](https://demo.neuralberta.tech), [(source)](https://github.com/neuralbertatech/natDemo)<br>
 [BCI Tower Defence Game](https://www.youtube.com/watch?v=32io4iy6L0k&t=217s), [(source)](https://github.com/neuralbertatech/openComp2019)<br>
-BCI Dashboard for Drug Administration, (closed source)<br> <!-- https://github.com/neuralbertatech/TECNIQ-Aquarius -->
-[BCI Accelerated Language Learning](https://koalacademy.com), (closed source)<br> <!-- https://github.com/neuralbertatech/Koalacademy -->
+BCI Dashboard for Drug Administration<br> <!-- https://github.com/neuralbertatech/TECNIQ-Aquarius -->
+[BCI Accelerated Language Learning](https://koalacademy.com)<br> <!-- https://github.com/neuralbertatech/Koalacademy -->
 BCI Music Player, [(source)](https://github.com/neuralbertatech/Museic)<br>
 HomeKit-Integrated Lighting System, [(source)](https://github.com/CameronHildebrandt/TV-Light-Strip)<br>
 Touchscreen Vehicle Lighting System, [(source)](https://github.com/CameronHildebrandt/Vehicle-Lighting-Controller-v1/tree/main)<br>
