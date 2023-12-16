@@ -78,7 +78,7 @@ CNN-Based Brain State Predictor (contract, closed-source)<br>
 [KNN-Based Brain-Controlled Drone](https://www.youtube.com/watch?v=-3UTwKpKpcI&t=48s)<br>
 [BCI Demo Website](https://demo.neuralberta.tech), [(source)](https://github.com/neuralbertatech/natDemo)<br>
 [BCI Tower Defence Game](https://www.youtube.com/watch?v=32io4iy6L0k&t=217s), [(source)]()<br>
-BCI Dashboard for Drug Administration, (closed source)<br> {::https://github.com/neuralbertatech/TECNIQ-Aquarius}
+BCI Dashboard for Drug Administration, (closed source)<br> #https://github.com/neuralbertatech/TECNIQ-Aquarius
 [BCI Accelerated Language Learning](https://koalacademy.com), [(source)]()<br>
 BCI Music Player<br>
 HomeKit-Integrated Lighting System<br>
