@@ -1,5 +1,5 @@
 ### Hello there, welcome to my GitHub page!
-Thank you for taking the time to look at my project portfolio! 
+Thank you for taking the time to look at my project portfolio. Where possible, I've linked an interactive or video demonstration of the project and also included a link to the source code. I unfortunately cannot share the source code of all projects due to legal reasons, but I've linked as many as I can!
 
 ## Competencies
 ### My Bread and Butter
