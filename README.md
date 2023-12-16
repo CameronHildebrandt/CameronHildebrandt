@@ -62,8 +62,8 @@ Thank you for taking the time to look at my project portfolio. Where possible, I
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-Google Apps Script, Google Sheets, Google Slides, Google Docs
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)<br>
+Google Apps Script, Google Sheets, Google Slides, Google Docs<br>
 Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 
 ## Projects
