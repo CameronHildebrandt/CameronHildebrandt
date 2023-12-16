@@ -1,4 +1,5 @@
-### Hello there, welcome to my GitHub!
+### Hello there, welcome to my GitHub page!
+Thank you for taking the time to look at my project portfolio! 
 
 ## Competencies
 ### My Bread and Butter
@@ -69,7 +70,7 @@ Apple Script, Apple Keynote, Apple Numbers, Apple Pages, FCPX
 [natHACKS Landing Page](https://nathacks.ca)<br>
 [NeurAlbertaTech Website](https://neuralberta.tech)<br>
 [natPass Event Identity System](https://pass.neuralberta.tech)<br> <!-- https://github.com/neuralbertatech/natPass.git -->
-[Capstone: Monocular Vision 3D Bounding Box Prediction for Autonomous Driving](https://drive.google.com/file/d/10eRCZUzMmA3GXPRcmGGueaG1OxYrkfHF/view?usp=sharing)<br> <!-- https://github.com/curtiskennedy/autonomous-driving -->
+[Capstone: Monocular Vision 3D Bounding Box Prediction for Autonomous Driving](https://github.com/CameronHildebrandt/CameronHildebrandt/blob/main/capstone.pdf)<br> <!-- https://github.com/curtiskennedy/autonomous-driving -->
 [Neural Audio Style Transfer](https://www.youtube.com/watch?v=jmB4IhfGhuY&t=6s), [(source)](https://github.com/CameronHildebrandt/466AudioStyleTransfer)<br>
 [Autonomous Mobile Robot](https://sites.google.com/ualberta.ca/cameron), [(source)](https://github.com/CameronHildebrandt/cmput412/tree/main)<br>
 [Bitcoin Well Online](https://bitcoinwell.com/app/)<br>
